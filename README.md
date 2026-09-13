@@ -4,4 +4,4 @@
 
 Сайт: https://tgmtproxy.github.io/mtproto-guide/
 
-Полный каталог MTProxy: https://tgmtproxy.github.io/mtproxy/proxy.html
+Полный каталог MTProxy: https://tgmtproxy.github.io/mtproxy/
